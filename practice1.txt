@@ -1,5 +1,10 @@
 Good Morning:
+<<<<<<< Updated upstream
 
 Harshad....
 Good Afternoon:
+=======
+night:GN
+I made This line AKASH
+>>>>>>> Stashed changes
 
